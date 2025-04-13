@@ -1,0 +1,6 @@
+#include<iostrream>
+using namespace std;
+{
+  cout<<"Hello Rishabh jangid "
+return 0;
+}
